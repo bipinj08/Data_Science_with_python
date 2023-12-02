@@ -24,11 +24,11 @@ To get started, follow these steps:
 The repository is structured as follows:
 
 - **Notebooks:** Contains Jupyter notebooks or Python scripts, each focusing on a specific aspect of data science.
-- **Documentation:** This README file and any additional documentation.
+- **Documentation:** This README file.
 
 ## Notebooks Content
 Each notebook is designed to provide a hands-on experience. Here's what you can expect:
 
 - **Introduction:** Briefly explains the focus and goals of the notebook.
-- **Code Cells:** Well-commented code cells demonstrating the use of NumPy, Pandas, Matplotlib, and Seaborn.
+- **Code Cells:** Well-commented code cells demonstrating the use of NumPy, Pandas, Matplotlib, and Seaborn. This will be updated soon.
 
